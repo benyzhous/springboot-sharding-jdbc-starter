@@ -1,0 +1,2 @@
+# springboot-sharding-jdbc-starter
+当当sharding-jdbc集成mybatis和commonMapper并提供读写分离demo
